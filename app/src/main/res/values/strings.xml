@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tech Gadgets App</string>
+    <string name="airpods">Airpods Image</string>
+    <string name="appletv">Apple TV Image</string>
+    <string name="macbookpro">Macbook Pro Image</string>
+    <string name="applewatch">Apple Watch Image</string>
+    <string name="iphone">iPhone 11 Pro Image</string>
+</resources>
